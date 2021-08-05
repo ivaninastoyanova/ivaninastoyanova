@@ -1,4 +1,3 @@
-<p align="center">
 ### Hi there! I am Ivanina! 👋
 
 <!--
@@ -16,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
 💻 I am currently studying Software Engineering at SoftUni (Software University - softuni.bg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaninastoyanova&layout=compact)](https://github.com/ivaninastoyanova/github-readme-stats)
