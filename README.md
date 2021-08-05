@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 
 ## Certificates
 
+| [C# Basics][C#Basics] | Second Header |
+| [C# Fundamentals][C#Fund] | ------------- |
+| [C# Advanced][C#Adv] | Content Cell  |
+| [C# OOP][C#OOP] | Content Cell  |
+| [Entity Framework Core][EfCore] | Content Cell  |
+| [MSSQL][MSSQL] | Content Cell  |
+
 - [C# Basics][C#Basics]
 - [C# Fundamentals][C#Fund]
 - [C# Advanced][C#Adv]
@@ -38,7 +45,6 @@ Here are some ideas to get you started:
 - 🔜 - ASP.NET Core
 
 <br />
-
 
 [C#Basics]: https://softuni.bg/certificates/details/77147/b2ee68dc
 [C#Fund]: https://softuni.bg/certificates/details/77147/b2ee68dc
