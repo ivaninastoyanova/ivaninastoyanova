@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 💻 I am currently studying Software Engineering at SoftUni (Software University - softuni.bg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
