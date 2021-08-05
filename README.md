@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
 💻 I am currently studying Software Engineering at SoftUni (Software University - softuni.bg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaninastoyanova&layout=compact)](https://github.com/ivaninastoyanova/github-readme-stats)
 
+<p align="center">
 ## Certificates
-
+  
+<p align="center">
 - [C# Basics][C#Basics]
 - [C# Fundamentals][C#Fund]
 - [C# Advanced][C#Adv]
@@ -43,7 +46,7 @@ Here are some ideas to get you started:
 [C#OOP]: https://softuni.bg/certificates/details/95723/297fdc1e
 [MSSQL]: https://softuni.bg/certificates/details/97833/8f850e18
 [EfCore]: https://softuni.bg/certificates/details/102590/cc4244bb
-</p>
+
 
 
 
