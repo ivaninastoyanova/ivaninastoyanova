@@ -1,3 +1,4 @@
+<p align="center">
 ### Hi there! I am Ivanina! 👋
 
 <!--
