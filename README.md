@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 
 ## Certificates
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| [C# Basics][C#Basics] | Content Cell  |
-| [C# Fundamentals][C#Fund] | Content Cell  |
-
 - [C# Basics][C#Basics]
 - [C# Fundamentals][C#Fund]
 - [C# Advanced][C#Adv]
