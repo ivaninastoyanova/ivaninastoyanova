@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
 💻 I am currently studying Software Engineering at SoftUni (Software University - softuni.bg)
 
+ <p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaninastoyanova&layout=compact)](https://github.com/ivaninastoyanova/github-readme-stats)
 
 ## Certificates
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
 [C#OOP]: https://softuni.bg/certificates/details/95723/297fdc1e
 [MSSQL]: https://softuni.bg/certificates/details/97833/8f850e18
 [EfCore]: https://softuni.bg/certificates/details/102590/cc4244bb
+</p>
 
 
 
