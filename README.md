@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [C# Fundamentals][C#Fund]
 - [C# Advanced][C#Adv]
 - [C# OOP][C#OOP]
+- [MS SQL][MSSQL]
 - [Entity Framework Core][EfCore]
-- [MSSQL][MSSQL]
 - 🔜 - JavaScript Advanced
 - 🔜 - JS Applications
 - 🔜 - HTML & CSS
