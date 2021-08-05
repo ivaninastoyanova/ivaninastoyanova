@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 [C#Basics]: https://softuni.bg/certificates/details/77147/b2ee68dc
-[C#Fund]: 
+[C#Fund]: https://softuni.bg/certificates/details/77147/b2ee68dc
 [C#Adv]: https://softuni.bg/certificates/details/90254/91aede5e
 [C#OOP]: https://softuni.bg/certificates/details/95723/297fdc1e
 [MSSQL]: https://softuni.bg/certificates/details/97833/8f850e18
