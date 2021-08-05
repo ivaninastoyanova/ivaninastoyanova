@@ -24,12 +24,10 @@ Here are some ideas to get you started:
 
 ## Certificates
 
-| [C# Basics][C#Basics] | Second Header |
-| [C# Fundamentals][C#Fund] | ------------- |
-| [C# Advanced][C#Adv] | Content Cell  |
-| [C# OOP][C#OOP] | Content Cell  |
-| [Entity Framework Core][EfCore] | Content Cell  |
-| [MSSQL][MSSQL] | Content Cell  |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| [C# Basics][C#Basics] | Content Cell  |
+| [C# Fundamentals][C#Fund] | Content Cell  |
 
 - [C# Basics][C#Basics]
 - [C# Fundamentals][C#Fund]
