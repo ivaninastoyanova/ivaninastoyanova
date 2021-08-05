@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaninastoyanova&layout=compact)](https://github.com/ivaninastoyanova/github-readme-stats)
 
-<p align="center">
 ## Certificates
   
-<p align="center">
 - [C# Basics][C#Basics]
 - [C# Fundamentals][C#Fund]
 - [C# Advanced][C#Adv]
