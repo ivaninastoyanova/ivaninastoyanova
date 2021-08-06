@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - [C# OOP][C#OOP]
 - [MS SQL][MSSQL]
 - [Entity Framework Core][EfCore]
-- 🔜 - JavaScript Advanced
+- 🔜 - JS Advanced
 - 🔜 - JS Applications
 - 🔜 - HTML & CSS
 - 🔜 - React JS
