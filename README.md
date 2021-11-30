@@ -32,9 +32,6 @@ Here are some ideas to get you started:
 - [JS Advanced][JSAdv]
 - [JS Applications][JSApplications]
 - [HTML & CSS][HTML&CSS]
-- 🔜 - JS Advanced
-- 🔜 - JS Applications
-- 🔜 - HTML & CSS
 - 🔜 - React JS
 - 🔜 - C# Web Basic
 - 🔜 - ASP.NET Core
