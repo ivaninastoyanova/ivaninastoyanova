@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 [C#OOP]: https://softuni.bg/certificates/details/95723/297fdc1e
 [MSSQL]: https://softuni.bg/certificates/details/97833/8f850e18
 [EfCore]: https://softuni.bg/certificates/details/102590/cc4244bb
-[JSAdv]  https://softuni.bg/certificates/details/110414/d7808d5a
+[JSAdv]: https://softuni.bg/certificates/details/110414/d7808d5a
 
 
 
