@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - [MS SQL][MSSQL]
 - [Entity Framework Core][EfCore]
 - [JS Advanced][JSAdv]
+- [JS Applications][JSApplications]
 - 🔜 - JS Advanced
 - 🔜 - JS Applications
 - 🔜 - HTML & CSS
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
 [MSSQL]: https://softuni.bg/certificates/details/97833/8f850e18
 [EfCore]: https://softuni.bg/certificates/details/102590/cc4244bb
 [JSAdv]: https://softuni.bg/certificates/details/110414/d7808d5a
+[JSApplications]: https://softuni.bg/certificates/details/110225/9878013d
 
 
 
