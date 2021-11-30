@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - [Entity Framework Core][EfCore]
 - [JS Advanced][JSAdv]
 - [JS Applications][JSApplications]
+- [HTML & CSS][HTML&CSS]
 - 🔜 - JS Advanced
 - 🔜 - JS Applications
 - 🔜 - HTML & CSS
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
 [EfCore]: https://softuni.bg/certificates/details/102590/cc4244bb
 [JSAdv]: https://softuni.bg/certificates/details/110414/d7808d5a
 [JSApplications]: https://softuni.bg/certificates/details/110225/9878013d
+[HTML&CSS]: https://softuni.bg/certificates/details/117711/cf2150ac
 
 
 
