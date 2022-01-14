@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - [JS Advanced][JSAdv]
 - [JS Applications][JSApplications]
 - [HTML & CSS][HTML&CSS]
-- 🔜 - React JS
+- [ReactJS][ReactJS]
 - 🔜 - C# Web Basic
 - 🔜 - ASP.NET Core
 
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 [JSAdv]: https://softuni.bg/certificates/details/110414/d7808d5a
 [JSApplications]: https://softuni.bg/certificates/details/110225/9878013d
 [HTML&CSS]: https://softuni.bg/certificates/details/117711/cf2150ac
+[ReactJS]: https://softuni.bg/certificates/details/122666/f8105dcd
 
 
 
