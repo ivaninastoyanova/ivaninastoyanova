@@ -1,4 +1,4 @@
-### Hi there! I am Ivanina! 👋
+### About Me
 
 <!--
 **ivaninastoyanova/ivaninastoyanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
