@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I am currently studying Software Engineering at SoftUni (Software University - softuni.bg)
+👋 Hello! I'm Ivanina Stoyanova, a passionate IT enthusiast with a knack for problem-solving and a love for technology. I hold a diploma in C# Web Development and am currently pursuing further education to obtain a diploma in C# Full Stack Development.
+
+💼 Professionally, I'm carving my path in the IT sector as a Junior IT Business Analyst, where I thrive on bridging the gap between technology and business needs. I enjoy diving into complex systems, analyzing requirements, and devising innovative solutions to drive business growth and efficiency.
 
 <br />
 
@@ -36,7 +38,6 @@ Here are some ideas to get you started:
 - [HTML & CSS][HTML&CSS]
 - [ReactJS][ReactJS]
 - [Fundamentals in Mathematics][Fundamentals in Mathematics]
-
 
 <br />
 
