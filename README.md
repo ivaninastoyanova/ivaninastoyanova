@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Diploma
   
 - [C# Web Developer][C# Web Developer]
-- 
+  
 <br />
 
 ## Certificates
