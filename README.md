@@ -29,12 +29,14 @@ Here are some ideas to get you started:
 - [C# OOP][C#OOP]
 - [MS SQL][MSSQL]
 - [Entity Framework Core][EfCore]
+- [ASP.NET Fundamentals][ASP.NET Fundamentals]
+- [ASP.NET Advanced][ASP.NET Advanced]
 - [JS Advanced][JSAdv]
 - [JS Applications][JSApplications]
 - [HTML & CSS][HTML&CSS]
 - [ReactJS][ReactJS]
-- 🔜 - C# Web Basic
-- 🔜 - ASP.NET Core
+- [Fundamentals in Mathematics][Fundamentals in Mathematics]
+
 
 <br />
 
@@ -44,10 +46,14 @@ Here are some ideas to get you started:
 [C#OOP]: https://softuni.bg/certificates/details/95723/297fdc1e
 [MSSQL]: https://softuni.bg/certificates/details/97833/8f850e18
 [EfCore]: https://softuni.bg/certificates/details/102590/cc4244bb
+[ASP.NET Fundamentals]: https://softuni.bg/certificates/details/206691/eb86e11f
+[ASP.NET Advanced]: https://softuni.bg/certificates/details/214156/34fb367b
 [JSAdv]: https://softuni.bg/certificates/details/110414/d7808d5a
 [JSApplications]: https://softuni.bg/certificates/details/110225/9878013d
 [HTML&CSS]: https://softuni.bg/certificates/details/117711/cf2150ac
 [ReactJS]: https://softuni.bg/certificates/details/122666/f8105dcd
+[Fundamentals in Mathematics]: https://softuni.bg/certificates/details/169027/598a3703
+
 
 
 
