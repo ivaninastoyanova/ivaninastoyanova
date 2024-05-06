@@ -15,13 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello! I'm Ivanina Stoyanova, a passionate IT enthusiast with a knack for problem-solving and a love for technology. I hold a diploma in C# Web Development and am currently pursuing further education to obtain a diploma in C# Full Stack Development.
+👋 Hello! I'm Ivanina Stoyanova, a passionate IT enthusiast with a knack for problem-solving and a love for technology. I hold a diploma in C# Web Development and I'm currently pursuing further education to obtain a diploma in C# Full Stack Development.
 
 💼 Professionally, I'm carving my path in the IT sector as a Junior IT Business Analyst, where I thrive on bridging the gap between technology and business needs. I enjoy diving into complex systems, analyzing requirements, and devising innovative solutions to drive business growth and efficiency.
 
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaninastoyanova&layout=compact)](https://github.com/ivaninastoyanova/github-readme-stats)
+
+## Diploma
+  
+- [DIPLOMA C# Web Developer][DIPLOMA C# Web Developer]
+
+<br />
 
 ## Certificates
   
@@ -54,6 +60,7 @@ Here are some ideas to get you started:
 [HTML&CSS]: https://softuni.bg/certificates/details/117711/cf2150ac
 [ReactJS]: https://softuni.bg/certificates/details/122666/f8105dcd
 [Fundamentals in Mathematics]: https://softuni.bg/certificates/details/169027/598a3703
+[DIPLOMA C# Web Developer]: https://softuni.bg/certificates/details/215307/124dc896
 
 
 
