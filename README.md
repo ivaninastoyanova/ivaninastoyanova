@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 ## Diploma
   
-- [DIPLOMA C# Web Developer][DIPLOMA C# Web Developer]
+- [C# Web Developer][C# Web Developer]
+- 
 <br />
 
 ## Certificates
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
 [HTML&CSS]: https://softuni.bg/certificates/details/117711/cf2150ac
 [ReactJS]: https://softuni.bg/certificates/details/122666/f8105dcd
 [Fundamentals in Mathematics]: https://softuni.bg/certificates/details/169027/598a3703
-[DIPLOMA C# Web Developer]: https://softuni.bg/certificates/details/215307/124dc896
+[C# Web Developer]: https://softuni.bg/certificates/details/215307/124dc896
 
 
 
