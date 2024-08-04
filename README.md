@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello! I'm Ivanina Stoyanova, a passionate IT enthusiast with a knack for problem-solving and a love for technology. I hold a diploma in C# Web Development and I'm currently pursuing further education to obtain a diploma in C# Full Stack Development.
+👋 Hello! I'm Ivanina Stoyanova, an IT enthusiast with a strong passion for technology and a talent for problem-solving. I hold a diploma in C# Full-Stack Development and am continually expanding my knowledge in the field.
 
 💼 Professionally, I'm carving my path in the IT sector as a Junior IT Business Analyst, where I thrive on bridging the gap between technology and business needs. I enjoy diving into complex systems, analyzing requirements, and devising innovative solutions to drive business growth and efficiency.
 
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## Diploma
   
 - [C# Web Developer][C# Web Developer]
+- [C# Full-Stack Developer][C# Full-Stack Developer]
   
 <br />
 
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
 - [HTML & CSS][HTML&CSS]
 - [ReactJS][ReactJS]
 - [Fundamentals in Mathematics][Fundamentals in Mathematics]
+- [QA Basics][QA Basics]
 
 <br />
 
@@ -60,7 +62,10 @@ Here are some ideas to get you started:
 [HTML&CSS]: https://softuni.bg/certificates/details/117711/cf2150ac
 [ReactJS]: https://softuni.bg/certificates/details/122666/f8105dcd
 [Fundamentals in Mathematics]: https://softuni.bg/certificates/details/169027/598a3703
+[QA Basics]: https://softuni.bg/certificates/details/219070/e2d6dcf8
 [C# Web Developer]: https://softuni.bg/certificates/details/215307/124dc896
+[C# Full-Stack Developer]: https://softuni.bg/certificates/details/220997/53207c4b
+
 
 
 
